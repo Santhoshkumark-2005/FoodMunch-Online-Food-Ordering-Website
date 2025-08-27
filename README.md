@@ -28,11 +28,14 @@ FoodMunch/
 ├── /css                # External stylesheets
 └── /js                 # JavaScript files (if any)
 
-⚡ #Installation & Setup
+⚡**Installation & Setup**
+
 **Clone the repository**
 git clone https://github.com/your-username/FoodMunch.git
+
 **Navigate to project directory**
 cd FoodMunch
+
 **Open in browser**
 open index.html
 
@@ -45,15 +48,11 @@ open index.html
 
 We welcome contributions! Here's how you can contribute:
 
-Fork the repository
-
-Create a new branch → feature/your-feature
-
-Make your changes
-
-Commit and push your branch
-
-Open a Pull Request 🎉
+1.Fork the repository
+2.Create a new branch → feature/your-feature
+3.Make your changes
+4.Commit and push your branch
+5.Open a Pull Request 🎉
 
 📜 **License**
 
