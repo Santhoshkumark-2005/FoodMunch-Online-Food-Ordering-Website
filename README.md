@@ -28,16 +28,12 @@ FoodMunch/
 ├── /css                # External stylesheets
 └── /js                 # JavaScript files (if any)
 
-⚡ **Installation & Setup**
-
-Follow these steps to run the project locally:
-# Clone the repository
+⚡ #Installation & Setup
+**Clone the repository**
 git clone https://github.com/your-username/FoodMunch.git
-
-# Navigate to project directory
+**Navigate to project directory**
 cd FoodMunch
-
-# Open in browser
+**Open in browser**
 open index.html
 
 🌎 **Live Demo**
