@@ -5,10 +5,15 @@ FoodMunch is a responsive food ordering website where users can explore menus, v
 **🚀 Features**
 
 ✅**Responsive UI** – Fully optimized for desktop, tablet, and mobile
+
 ✅ **Explore Menu** – Browse through a variety of categories like starters, soups, biryanis, desserts & more
+
 ✅ **Best Offers** – Exciting discounts up to 50% OFF
+
 ✅ **Fast Delivery** – Live order tracking with real-time status
+
 ✅ **Multiple Payment Options** – Visa, MasterCard, PayPal, American Express
+
 ✅ **Social Media Integration** – Easy sharing & following via Twitter, Instagram, and Facebook
 
 🛠️ **Tech Stack**
@@ -49,9 +54,13 @@ open index.html
 We welcome contributions! Here's how you can contribute:
 
 1.Fork the repository
+
 2.Create a new branch → feature/your-feature
+
 3.Make your changes
+
 4.Commit and push your branch
+
 5.Open a Pull Request 🎉
 
 📜 **License**
