@@ -44,14 +44,8 @@ cd FoodMunch
 **Open in browser**
 open index.html
 
-🌎 **Live Demo**
-
-🚀 Click Here to View Live Demo
- (Will update after hosting on Vercel)
 
  🤝 **Contributing**
-
-We welcome contributions! Here's how you can contribute:
 
 1.Fork the repository
 
